@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Siddartha</h1>
 <h3 align="center">Full-Stack Developer | AI-ML Enthusiast | Open Source Explorer</h3>
 
+
+<p align="center">
+  🔗 <strong>Live Demo:</strong> <a href="https://siddarthaportfolio.netlify.app" target="_blank">https://siddarthaportfolio.netlify.app</a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
